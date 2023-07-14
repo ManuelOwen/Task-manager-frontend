@@ -1,0 +1,59 @@
+ 
+.fil{
+      height: 90vh;
+      width: 100%;
+      background-color: aquamarine;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+ 
+
+}
+.sort{
+      height: 60vh;
+      width: 50%;
+      background-color: blueviolet;
+      border-radius: 15px;
+     
+}
+.filter{
+      height: 20vh;
+      width: 90%;
+      background-color: rgb(3, 33, 33);
+      margin-top: 3rem;
+      margin-left: 3rem;
+      color: aliceblue;
+      border-radius: 10px;
+
+}
+.sot{
+      height: 20vh;
+      width: 90%;
+      background-color: rgb(3, 33, 33);
+      margin-top: 3rem;
+      margin-left: 3rem;
+      color: aliceblue;
+      border-radius: 10px;;
+      font-size: 12px;
+}
+.bfit{
+      background-color: aqua;
+      color: black;
+      height: 2rem;
+      width: 5rem;
+      border-radius: 7px;
+      flex-direction: flex-end;
+      margin-left: 25rem;
+
+}
+.bsort{
+      background-color: aqua;
+      color: black;
+      height: 2rem;
+      width: 5rem;
+      border-radius: 7px;
+      margin-top: 8rem;
+      margin-left: 1rem;
+     
+}

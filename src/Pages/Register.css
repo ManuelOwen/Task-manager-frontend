@@ -1,0 +1,58 @@
+.register{
+      width: 60vh;
+      width: 60%;
+      
+      
+      display: row;
+      align-items: center;
+      text-align: center;
+
+}
+.form{
+  height: 40rem;
+  width: 65%;
+  background-color: cadetblue; 
+  margin-top: 20px;
+  margin-left: 50%;
+  border-radius: 15px;
+  box-shadow: aqua;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form h1{
+  color: aliceblue;
+}
+.reg{
+  width: 70%;
+  height: 38px;
+  border-radius: 10px;
+  margin-top: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+
+
+}
+.but{
+  width: 28%;
+  height: 38px;
+  border-radius: 10px;
+  margin-top: 19px;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  background-color: green;
+
+}
+.but:hover{
+  cursor: pointer;
+  background-color: aqua;
+  color: aliceblue;
+}
+.but:hover{
+  cursor: pointer;
+
+}

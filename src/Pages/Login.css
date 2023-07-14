@@ -1,0 +1,52 @@
+.login{
+      height: 90vh;
+      width: 100%;
+      /* background-color: blue; */
+
+}
+.folog{
+      padding-top: 13px;
+      margin-top: 37px;
+          height: 68vh;
+          width: 40%;
+          background-color: rgb(2, 85, 62);
+          display: flex;
+
+          align-items: center;
+          text-align: center;
+          justify-content: center;
+          flex-direction: column;
+          border-radius: 13px;
+          margin-left: 23rem ;
+            padding-top: 12px;
+}
+.folog h1{
+      color: aliceblue;
+}
+.log{
+            height: 2.8rem;
+            width: 28rem;
+            border-radius: 7px;
+            margin-top: 12px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            font-size: 20px;
+}
+.buton{
+      height: 2.8rem;
+      width:10rem ;
+      background-color: aqua;
+      color: aliceblue;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: 800;
+      margin-top: 18px;
+      border-radius: 10px;
+
+}
+.buton:hover{
+      background-color: chartreuse;
+      color: black;
+      cursor: pointer;
+
+}

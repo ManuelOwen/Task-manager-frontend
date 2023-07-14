@@ -1,0 +1,22 @@
+.comme{
+      height: 90vh;
+      width: 100%;
+      background-color: blue;
+
+}
+.com1{
+      height: 10rem;
+      width: 70%;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+      margin-left: 10rem;
+      /* padding-top: 18px; */
+      background-color: rgb(143, 162, 182);
+      /* margin-top: 30px; */
+      
+}
+.com{
+      border-radius:15px ;
+}

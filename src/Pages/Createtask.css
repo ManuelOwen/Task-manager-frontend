@@ -1,0 +1,131 @@
+
+.create{
+      height: 90vh;
+      width: 100%;
+      background-color:aqua;
+      font-size: 20px;
+      font-weight: 800;
+      
+}
+.search{ 
+  
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   
+
+}
+.search input{
+      margin-top: 10px;
+      height: 2rem;
+      width: 32rem;
+     
+      justify-content: center;
+   align-items: center;
+   text-align: center;
+   border-radius: 10px;
+}
+.task-title{
+      margin-top: 38px;
+      display: flex;
+
+      height: 8vh;
+      width: 60%;
+      border-radius: 15px;
+      margin-left: 17rem;
+
+ justify-content: center;
+   align-items: center;
+   text-align: center;
+      background-color: blue;
+}
+.task-title input {
+ 
+      height: 2rem;
+      width: 32rem;  
+      border-radius: 10px;
+      justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-size: 18px;
+}
+.task-dates{
+      margin-top: 38px;
+      display: flex;
+
+      height: 8vh;
+      width: 60%;
+      border-radius: 15px;
+      margin-left: 17rem;
+
+ justify-content: center;
+   align-items: center;
+   text-align: center;
+   background-color: blue;
+}
+.task-dates input{
+      height: 2rem;
+      width: 16rem;
+      margin: 2rem;
+      border-radius: 10px;
+      justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-size: 18px;
+}
+.task-dates label{
+ padding-right: 5rem;
+      color: aliceblue;
+      
+      
+}
+.task-priority{
+      margin-top: 38px;
+      display: flex;
+      
+      height: 8vh;
+      width: 60%;
+      border-radius: 15px;
+      margin-left: 17rem;
+
+ justify-content: center;
+   align-items: center;
+   text-align: center;
+   background-color:blue; 
+}
+.task-priority input label{
+      padding: 20px;
+      color: aliceblue;
+}
+#high{
+      color: red;
+      font-weight: bold;
+}
+.task{
+     
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+      padding: 28px;
+  padding-left: 10px;
+}
+.Edit,
+.save {
+      height: 35px;
+      width: 5rem;
+  margin-right: 15px;
+
+  background-color: aqua;
+  font-size: 18PX;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+text-align: center;
+color: black;
+
+}
+.Edit,
+.save:hover{
+cursor: pointer;
+}

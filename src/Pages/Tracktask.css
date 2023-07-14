@@ -1,0 +1,52 @@
+.container {
+      display: flex;
+    }
+    
+    .side-nav {
+      width: 200px;
+    }
+    .side-nav h2{
+      color: aliceblue;
+    }
+    .sidenav {
+      display: flex;
+      flex-direction: column;
+      background-color: gray;
+      height: 88vh;
+      width: 100%;
+    }
+    .sidenav h1{
+      justify-content: center;
+      color: aliceblue;
+    }
+    
+    .nav {
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: 800;
+      padding-top: 3rem;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .nav:hover{
+      cursor: pointer;
+      color: aliceblue;
+      transition: .3s ease;
+    }
+    .mainnav {
+      flex-grow: 1;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      background-color: aqua;
+
+    }
+    
+    .main-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+    }
+    

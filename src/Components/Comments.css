@@ -1,0 +1,71 @@
+/* CSS for COMMENTS */
+.comm{
+      height: 70vh;
+      width: 50%;
+      background-color: rgb(14, 174, 118);
+      margin-left: 15rem;
+      border-radius: 15px;
+  
+      
+}
+.message{
+      width: 80%;
+      height: 20vh;
+      margin-left: 3.4rem;
+      margin-top: 3rem;
+  
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      /* background-color: aliceblue; */
+      border-radius: 10px;
+}
+.messag {
+      width: 80%;
+      height: 20vh;
+      margin-left: 3.4rem;
+      margin-top: 5rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background-color: aliceblue;
+      border-radius: 10px;
+    }
+    
+    .messag p {
+      margin: auto;
+    }
+    /* CSS FOR YOUR TASK */
+    .curr-task{
+      color: black;
+      height: 50vh;
+      width: 50%;
+      background-color: rgb(14, 174, 118);
+      margin-left: 16rem;
+   
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      border-radius: 10px;
+      padding-top: 8rem;
+    }
+    /* CSS FOR CALENDAR */
+    .calenda {
+      color: black;
+      height: 50vh;
+      width: 100%;
+      /* background-color: rgb(14, 174, 118); */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      border-radius: 10px;
+      padding-top: 8rem;
+    }
+    
+    .calenda .react-calendar {
+      height: 50vh;
+      width: 50%;
+    }
+    

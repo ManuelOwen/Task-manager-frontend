@@ -1,0 +1,25 @@
+.Navbar {
+   height: 10vh;
+   width: 100%;
+   /* background-color: rgb(52, 250, 243); */
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   font-size: 30px;
+   border-radius: 7px;
+ }
+ 
+ .Navbar a {
+   text-decoration: none;
+   display: flex;
+   align-items: center;
+   padding: 1rem;
+   color: black;
+ }
+ 
+ .Navbar span {
+   padding-left: 3px;
+   display: flex;
+   align-items: center;
+ }
+ 

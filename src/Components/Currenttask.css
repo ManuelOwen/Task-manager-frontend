@@ -1,0 +1,26 @@
+/* .curren{
+      height: 88vh;
+      width: 100%;
+     
+
+} */
+.curr{
+      
+      color: black;
+      height: 50vh;
+      width: 50%;
+      background-color: rgb(10, 163, 112);
+      margin-left: 16rem;
+      margin-top: 5rem;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      border-radius: 10px;
+      padding-top: 8rem;
+
+}
+.curr:hover {
+      cursor: pointer;
+      transition: ease-in ;
+    }
+    
